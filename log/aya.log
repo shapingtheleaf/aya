@@ -1,0 +1,226 @@
+[2016-12-23 18:19:46.474] [INFO] aya - Test log4j
+[2016-12-23 18:48:54.345] [INFO] aya - Test log4j
+[2016-12-23 18:53:49.360] [INFO] aya - **************************************************************
+[2016-12-23 18:53:49.363] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 18:53:49.364] [INFO] aya - **************************************************************
+[2016-12-23 18:53:49.364] [INFO] aya - Initiating a new soundtouch device instance.
+[2016-12-23 18:54:18.627] [INFO] aya - **************************************************************
+[2016-12-23 18:54:18.630] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 18:54:18.630] [INFO] aya - **************************************************************
+[2016-12-23 18:54:18.630] [INFO] aya - Initiating a new soundtouch device instance.
+[2016-12-23 18:54:24.882] [INFO] aya - **************************************************************
+[2016-12-23 18:54:24.886] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 18:54:24.886] [INFO] aya - **************************************************************
+[2016-12-23 18:54:24.886] [INFO] aya - Initiating a new soundtouch device instance.
+[2016-12-23 18:54:32.953] [INFO] aya - **************************************************************
+[2016-12-23 18:54:32.956] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 18:54:32.956] [INFO] aya - **************************************************************
+[2016-12-23 18:54:32.956] [INFO] aya - Initiating a new soundtouch device instance.
+[2016-12-23 18:54:41.135] [INFO] aya - **************************************************************
+[2016-12-23 18:54:41.139] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 18:54:41.139] [INFO] aya - **************************************************************
+[2016-12-23 18:54:41.139] [INFO] aya - Initiating a new soundtouch device instance.
+[2016-12-23 18:54:48.761] [INFO] aya - **************************************************************
+[2016-12-23 18:54:48.765] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 18:54:48.766] [INFO] aya - **************************************************************
+[2016-12-23 18:54:48.766] [INFO] aya - Initiating a new soundtouch device instance.
+[2016-12-23 18:54:57.193] [INFO] aya - **************************************************************
+[2016-12-23 18:54:57.196] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 18:54:57.197] [INFO] aya - **************************************************************
+[2016-12-23 18:54:57.197] [INFO] aya - Initiating a new soundtouch device instance.
+[2016-12-23 18:55:50.076] [INFO] aya - **************************************************************
+[2016-12-23 18:55:50.080] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 18:55:50.081] [INFO] aya - **************************************************************
+[2016-12-23 18:55:50.081] [INFO] aya - Initiating a new soundtouch device instance.
+[2016-12-23 18:55:59.588] [INFO] aya - **************************************************************
+[2016-12-23 18:55:59.591] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 18:55:59.592] [INFO] aya - **************************************************************
+[2016-12-23 18:55:59.592] [INFO] aya - Initiating a new soundtouch device instance.
+[2016-12-23 18:56:07.568] [INFO] aya - **************************************************************
+[2016-12-23 18:56:07.572] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 18:56:07.572] [INFO] aya - **************************************************************
+[2016-12-23 18:56:07.573] [INFO] aya - Initiating a new soundtouch device instance.
+[2016-12-23 18:56:15.328] [INFO] aya - **************************************************************
+[2016-12-23 18:56:15.332] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 18:56:15.332] [INFO] aya - **************************************************************
+[2016-12-23 18:56:15.332] [INFO] aya - Initiating a new soundtouch device instance.
+[2016-12-23 20:23:46.337] [INFO] aya - **************************************************************
+[2016-12-23 20:23:46.341] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 20:23:46.342] [INFO] aya - **************************************************************
+[2016-12-23 20:23:46.342] [INFO] aya - [Soundtouch] Initiating a new soundtouch device instance.
+[2016-12-23 20:23:46.342] [INFO] aya - [Soundtouch] Name: soundtouch
+[2016-12-23 20:23:46.342] [INFO] aya - [Soundtouch] Hostname: Muziekdoosje
+[2016-12-23 20:23:46.342] [INFO] aya - [Soundtouch] Port: 8090
+[2016-12-23 20:23:46.342] [INFO] aya - [Soundtouch] IP Address: 192.168.10.107
+[2016-12-23 20:28:49.338] [INFO] aya - **************************************************************
+[2016-12-23 20:28:49.341] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 20:28:49.342] [INFO] aya - **************************************************************
+[2016-12-23 20:28:49.342] [INFO] aya - [Soundtouch] Initiating a new soundtouch device instance.
+[2016-12-23 20:28:49.342] [INFO] aya - [Soundtouch] Name: soundtouch
+[2016-12-23 20:28:49.342] [INFO] aya - [Soundtouch] Hostname: Muziekdoosje
+[2016-12-23 20:28:49.342] [INFO] aya - [Soundtouch] Port: 8090
+[2016-12-23 20:28:49.342] [INFO] aya - [Soundtouch] IP Address: 192.168.10.107
+[2016-12-23 20:28:49.343] [INFO] aya - [Soundtouch][setVolumeLevel] Changing volume level to NORMAL
+[2016-12-23 20:28:49.348] [INFO] aya - [Soundtouch][setVolumeLevel] Exit
+[2016-12-23 20:29:56.413] [INFO] aya - **************************************************************
+[2016-12-23 20:29:56.416] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 20:29:56.417] [INFO] aya - **************************************************************
+[2016-12-23 20:29:56.417] [INFO] aya - [Soundtouch] Initiating a new soundtouch device instance.
+[2016-12-23 20:29:56.417] [INFO] aya - [Soundtouch] Name: soundtouch
+[2016-12-23 20:29:56.417] [INFO] aya - [Soundtouch] Hostname: Muziekdoosje
+[2016-12-23 20:29:56.417] [INFO] aya - [Soundtouch] Port: 8090
+[2016-12-23 20:29:56.417] [INFO] aya - [Soundtouch] IP Address: 192.168.10.107
+[2016-12-23 20:29:56.417] [INFO] aya - [Soundtouch][setVolumeLevel] Changing volume level to NORMAL
+[2016-12-23 20:29:56.423] [INFO] aya - [Soundtouch][setVolumeLevel] Exit
+[2016-12-23 20:43:08.635] [INFO] aya - **************************************************************
+[2016-12-23 20:43:08.638] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 20:43:08.639] [INFO] aya - **************************************************************
+[2016-12-23 20:43:08.639] [INFO] aya - [Soundtouch] Initiating a new soundtouch device instance.
+[2016-12-23 20:43:08.639] [INFO] aya - [Soundtouch] Name: soundtouch
+[2016-12-23 20:43:08.639] [INFO] aya - [Soundtouch] Hostname: Muziekdoosje
+[2016-12-23 20:43:08.639] [INFO] aya - [Soundtouch] Port: 8090
+[2016-12-23 20:43:08.639] [INFO] aya - [Soundtouch] IP Address: 192.168.10.107
+[2016-12-23 20:43:08.639] [INFO] aya - [Soundtouch][changeMuteCondition] Changing mute condition
+[2016-12-23 20:43:08.644] [INFO] aya - [Soundtouch][changeMuteCondition] Exit
+[2016-12-23 20:44:50.156] [INFO] aya - **************************************************************
+[2016-12-23 20:44:50.159] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 20:44:50.160] [INFO] aya - **************************************************************
+[2016-12-23 20:44:50.160] [INFO] aya - [Soundtouch] Initiating a new soundtouch device instance.
+[2016-12-23 20:44:50.160] [INFO] aya - [Soundtouch] Name: soundtouch
+[2016-12-23 20:44:50.160] [INFO] aya - [Soundtouch] Hostname: Muziekdoosje
+[2016-12-23 20:44:50.160] [INFO] aya - [Soundtouch] Port: 8090
+[2016-12-23 20:44:50.160] [INFO] aya - [Soundtouch] IP Address: 192.168.10.107
+[2016-12-23 20:44:50.160] [INFO] aya - [Soundtouch][changeMuteCondition] Changing mute condition
+[2016-12-23 20:44:50.167] [INFO] aya - [Soundtouch][changeMuteCondition] Exit
+[2016-12-23 20:45:52.074] [INFO] aya - **************************************************************
+[2016-12-23 20:45:52.078] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 20:45:52.078] [INFO] aya - **************************************************************
+[2016-12-23 20:45:52.079] [INFO] aya - [Soundtouch] Initiating a new soundtouch device instance.
+[2016-12-23 20:45:52.079] [INFO] aya - [Soundtouch] Name: soundtouch
+[2016-12-23 20:45:52.079] [INFO] aya - [Soundtouch] Hostname: Muziekdoosje
+[2016-12-23 20:45:52.079] [INFO] aya - [Soundtouch] Port: 8090
+[2016-12-23 20:45:52.079] [INFO] aya - [Soundtouch] IP Address: 192.168.10.107
+[2016-12-23 20:45:52.079] [INFO] aya - [Soundtouch][changeMuteCondition] Changing mute condition
+[2016-12-23 20:45:52.086] [INFO] aya - [Soundtouch][changeMuteCondition] Exit
+[2016-12-23 20:46:30.088] [INFO] aya - **************************************************************
+[2016-12-23 20:46:30.092] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 20:46:30.092] [INFO] aya - **************************************************************
+[2016-12-23 20:46:30.093] [INFO] aya - [Soundtouch] Initiating a new soundtouch device instance.
+[2016-12-23 20:46:30.093] [INFO] aya - [Soundtouch] Name: soundtouch
+[2016-12-23 20:46:30.093] [INFO] aya - [Soundtouch] Hostname: Muziekdoosje
+[2016-12-23 20:46:30.093] [INFO] aya - [Soundtouch] Port: 8090
+[2016-12-23 20:46:30.093] [INFO] aya - [Soundtouch] IP Address: 192.168.10.107
+[2016-12-23 20:46:30.093] [INFO] aya - [Soundtouch][changeMuteCondition] Changing mute condition
+[2016-12-23 20:46:30.099] [INFO] aya - [Soundtouch][changeMuteCondition] Exit
+[2016-12-23 20:48:33.721] [INFO] aya - **************************************************************
+[2016-12-23 20:48:33.725] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 20:48:33.725] [INFO] aya - **************************************************************
+[2016-12-23 20:48:33.725] [INFO] aya - [Soundtouch] Initiating a new soundtouch device instance.
+[2016-12-23 20:48:33.725] [INFO] aya - [Soundtouch] Name: soundtouch
+[2016-12-23 20:48:33.725] [INFO] aya - [Soundtouch] Hostname: Muziekdoosje
+[2016-12-23 20:48:33.725] [INFO] aya - [Soundtouch] Port: 8090
+[2016-12-23 20:48:33.725] [INFO] aya - [Soundtouch] IP Address: 192.168.10.107
+[2016-12-23 20:48:33.726] [INFO] aya - [Soundtouch][changeMuteCondition] Changing mute condition
+[2016-12-23 20:48:33.732] [INFO] aya - [Soundtouch][changeMuteCondition] Exit
+[2016-12-23 20:48:36.102] [INFO] aya - **************************************************************
+[2016-12-23 20:48:36.105] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 20:48:36.106] [INFO] aya - **************************************************************
+[2016-12-23 20:48:36.106] [INFO] aya - [Soundtouch] Initiating a new soundtouch device instance.
+[2016-12-23 20:48:36.106] [INFO] aya - [Soundtouch] Name: soundtouch
+[2016-12-23 20:48:36.106] [INFO] aya - [Soundtouch] Hostname: Muziekdoosje
+[2016-12-23 20:48:36.106] [INFO] aya - [Soundtouch] Port: 8090
+[2016-12-23 20:48:36.106] [INFO] aya - [Soundtouch] IP Address: 192.168.10.107
+[2016-12-23 20:48:36.106] [INFO] aya - [Soundtouch][changeMuteCondition] Changing mute condition
+[2016-12-23 20:48:36.113] [INFO] aya - [Soundtouch][changeMuteCondition] Exit
+[2016-12-23 21:04:14.991] [INFO] aya - **************************************************************
+[2016-12-23 21:04:14.995] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 21:04:14.995] [INFO] aya - **************************************************************
+[2016-12-23 21:04:14.995] [INFO] aya - [Soundtouch] Initiating a new soundtouch device instance.
+[2016-12-23 21:04:14.995] [INFO] aya - [Soundtouch] Name: soundtouch
+[2016-12-23 21:04:14.995] [INFO] aya - [Soundtouch] Hostname: Muziekdoosje
+[2016-12-23 21:04:14.995] [INFO] aya - [Soundtouch] Port: 8090
+[2016-12-23 21:04:14.995] [INFO] aya - [Soundtouch] IP Address: 192.168.10.107
+[2016-12-23 21:04:14.996] [INFO] aya - [Soundtouch][changePowerCondition] Changing power condition
+[2016-12-23 21:04:15.002] [INFO] aya - [Soundtouch][changePowerCondition] Exit
+[2016-12-23 21:04:18.348] [INFO] aya - **************************************************************
+[2016-12-23 21:04:18.351] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 21:04:18.352] [INFO] aya - **************************************************************
+[2016-12-23 21:04:18.352] [INFO] aya - [Soundtouch] Initiating a new soundtouch device instance.
+[2016-12-23 21:04:18.352] [INFO] aya - [Soundtouch] Name: soundtouch
+[2016-12-23 21:04:18.352] [INFO] aya - [Soundtouch] Hostname: Muziekdoosje
+[2016-12-23 21:04:18.352] [INFO] aya - [Soundtouch] Port: 8090
+[2016-12-23 21:04:18.352] [INFO] aya - [Soundtouch] IP Address: 192.168.10.107
+[2016-12-23 21:04:18.352] [INFO] aya - [Soundtouch][changePowerCondition] Changing power condition
+[2016-12-23 21:04:18.359] [INFO] aya - [Soundtouch][changePowerCondition] Exit
+[2016-12-23 21:18:54.074] [INFO] aya - **************************************************************
+[2016-12-23 21:18:54.077] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 21:18:54.077] [INFO] aya - **************************************************************
+[2016-12-23 21:18:54.077] [INFO] aya - [Soundtouch] Initiating a new soundtouch device instance.
+[2016-12-23 21:18:54.078] [INFO] aya - [Soundtouch] Name: soundtouch
+[2016-12-23 21:18:54.078] [INFO] aya - [Soundtouch] Hostname: Muziekdoosje
+[2016-12-23 21:18:54.078] [INFO] aya - [Soundtouch] Port: 8090
+[2016-12-23 21:18:54.078] [INFO] aya - [Soundtouch] IP Address: 192.168.10.107
+[2016-12-23 21:18:54.078] [INFO] aya - [Soundtouch][changePowerCondition] Changing power condition
+[2016-12-23 21:18:54.084] [INFO] aya - [Soundtouch][changePowerCondition] Exit
+[2016-12-23 21:18:57.211] [INFO] aya - **************************************************************
+[2016-12-23 21:18:57.215] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-23 21:18:57.215] [INFO] aya - **************************************************************
+[2016-12-23 21:18:57.215] [INFO] aya - [Soundtouch] Initiating a new soundtouch device instance.
+[2016-12-23 21:18:57.215] [INFO] aya - [Soundtouch] Name: soundtouch
+[2016-12-23 21:18:57.215] [INFO] aya - [Soundtouch] Hostname: Muziekdoosje
+[2016-12-23 21:18:57.215] [INFO] aya - [Soundtouch] Port: 8090
+[2016-12-23 21:18:57.215] [INFO] aya - [Soundtouch] IP Address: 192.168.10.107
+[2016-12-23 21:18:57.215] [INFO] aya - [Soundtouch][changePowerCondition] Changing power condition
+[2016-12-23 21:18:57.222] [INFO] aya - [Soundtouch][changePowerCondition] Exit
+[2016-12-24 08:49:32.042] [INFO] aya - **************************************************************
+[2016-12-24 08:49:32.046] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-24 08:49:32.047] [INFO] aya - **************************************************************
+[2016-12-24 08:49:32.047] [INFO] aya - [Soundtouch] Initiating a new soundtouch device instance.
+[2016-12-24 08:49:32.047] [INFO] aya - [Soundtouch] Name: soundtouch
+[2016-12-24 08:49:32.047] [INFO] aya - [Soundtouch] Hostname: Muziekdoosje
+[2016-12-24 08:49:32.047] [INFO] aya - [Soundtouch] Port: 8090
+[2016-12-24 08:49:32.047] [INFO] aya - [Soundtouch] IP Address: 192.168.10.107
+[2016-12-24 08:49:32.047] [INFO] aya - [Soundtouch][changePowerCondition] Changing power condition
+[2016-12-24 08:49:32.059] [INFO] aya - [Soundtouch][changePowerCondition] Exit
+[2016-12-24 08:49:35.437] [INFO] aya - **************************************************************
+[2016-12-24 08:49:35.440] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-24 08:49:35.441] [INFO] aya - **************************************************************
+[2016-12-24 08:49:35.441] [INFO] aya - [Soundtouch] Initiating a new soundtouch device instance.
+[2016-12-24 08:49:35.441] [INFO] aya - [Soundtouch] Name: soundtouch
+[2016-12-24 08:49:35.441] [INFO] aya - [Soundtouch] Hostname: Muziekdoosje
+[2016-12-24 08:49:35.441] [INFO] aya - [Soundtouch] Port: 8090
+[2016-12-24 08:49:35.441] [INFO] aya - [Soundtouch] IP Address: 192.168.10.107
+[2016-12-24 08:49:35.441] [INFO] aya - [Soundtouch][changePowerCondition] Changing power condition
+[2016-12-24 08:49:35.447] [INFO] aya - [Soundtouch][changePowerCondition] Exit
+[2016-12-24 09:45:18.319] [INFO] aya - **************************************************************
+[2016-12-24 09:45:18.322] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-24 09:45:18.323] [INFO] aya - **************************************************************
+[2016-12-24 09:45:18.323] [INFO] aya - [Soundtouch] Initiating a new soundtouch device instance.
+[2016-12-24 09:45:18.323] [INFO] aya - [Soundtouch] Name: soundtouch
+[2016-12-24 09:45:18.323] [INFO] aya - [Soundtouch] Hostname: Muziekdoosje
+[2016-12-24 09:45:18.323] [INFO] aya - [Soundtouch] Port: 8090
+[2016-12-24 09:45:18.323] [INFO] aya - [Soundtouch] IP Address: 192.168.10.107
+[2016-12-24 11:49:47.126] [INFO] aya - **************************************************************
+[2016-12-24 11:49:47.131] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-24 11:49:47.132] [INFO] aya - **************************************************************
+[2016-12-24 11:49:47.132] [INFO] aya - [Soundtouch] Initiating a new soundtouch device instance.
+[2016-12-24 11:49:47.132] [INFO] aya - [Soundtouch] Name: soundtouch
+[2016-12-24 11:49:47.132] [INFO] aya - [Soundtouch] Hostname: Muziekdoosje
+[2016-12-24 11:49:47.132] [INFO] aya - [Soundtouch] Port: 8090
+[2016-12-24 11:49:47.132] [INFO] aya - [Soundtouch] IP Address: 192.168.10.107
+[2016-12-24 11:49:47.132] [INFO] aya - [VieraST] Initiating a new Viera ST device instance.
+[2016-12-24 11:49:47.132] [INFO] aya - [VieraST] IP Address: 192.168.10.102
+[2016-12-24 11:49:47.132] [INFO] aya - [VieraST][doMenuAction] Executing NRC_MENU-ONOFF key event
+[2016-12-24 11:49:47.139] [INFO] aya - [VieraST][doMenuAction] Exit
+[2016-12-24 11:49:52.631] [INFO] aya - **************************************************************
+[2016-12-24 11:49:52.634] [INFO] aya - ********************* AYA ENGINE STARTED *********************
+[2016-12-24 11:49:52.634] [INFO] aya - **************************************************************
+[2016-12-24 11:49:52.634] [INFO] aya - [Soundtouch] Initiating a new soundtouch device instance.
+[2016-12-24 11:49:52.634] [INFO] aya - [Soundtouch] Name: soundtouch
+[2016-12-24 11:49:52.634] [INFO] aya - [Soundtouch] Hostname: Muziekdoosje
+[2016-12-24 11:49:52.634] [INFO] aya - [Soundtouch] Port: 8090
+[2016-12-24 11:49:52.634] [INFO] aya - [Soundtouch] IP Address: 192.168.10.107
+[2016-12-24 11:49:52.635] [INFO] aya - [VieraST] Initiating a new Viera ST device instance.
+[2016-12-24 11:49:52.635] [INFO] aya - [VieraST] IP Address: 192.168.10.102
+[2016-12-24 11:49:52.635] [INFO] aya - [VieraST][doMenuAction] Executing NRC_MENU-ONOFF key event
+[2016-12-24 11:49:52.640] [INFO] aya - [VieraST][doMenuAction] Exit

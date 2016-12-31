@@ -1,0 +1,38 @@
+{
+  "name": "aya",
+  "version": "1.0.0",
+  "description": "Aya NodeJS Engine",
+  "main": "aya.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shapingtheleaf/aya.git"
+  },
+  "keywords": [
+    "aya",
+    "engine",
+    "smart",
+    "ai",
+    "nodejs",
+    "personal",
+    "assistent"
+  ],
+  "author": "Stan Verswijver (shaping.the.leaf)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/shapingtheleaf/aya/issues"
+  },
+  "homepage": "https://github.com/shapingtheleaf/aya#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "js2xmlparser": "^2.0.2",
+    "log4js": "^1.1.0",
+    "mdns": "^2.3.3",
+    "mdns-js": "^0.5.1",
+    "path": "^0.12.7",
+    "request": "^2.79.0"
+  }
+}
